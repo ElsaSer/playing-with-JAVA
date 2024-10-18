@@ -301,5 +301,14 @@
 
 // console.log(`i like to drink ${age >= 18 ? "wine 😈" : "water 💦"}`);
 
+//EXERCISE     VARIABLES
 
-//*** JAVA RELEASES ES5 ES6+ AND ESNEXT ***
+// Declare variables called country, continent and population and assign their values according to your own country (population in millions).
+// Log their values to the console.
+
+const country = "Romania";
+const continent = "Europe";
+let population = "18";
+const isIsland = false;
+const language = "romanian";
+
