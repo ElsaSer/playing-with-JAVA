@@ -306,9 +306,9 @@
 // Declare variables called country, continent and population and assign their values according to your own country (population in millions).
 // Log their values to the console.
 
-const country = "Romania";
-const continent = "Europe";
-let population = "18";
-const isIsland = false;
-const language = "romanian";
+// const country = "Romania";
+// const continent = "Europe";
+// let population = "18";
+// const isIsland = false;
+// const language = "romanian";
 
